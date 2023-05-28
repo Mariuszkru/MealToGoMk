@@ -4,7 +4,7 @@ import { StatusBar, StyleSheet, Text, View, SafeAreaView, Platform } from 'react
 export default function App() {
   return (
     <>
-      <SafeAreaView style={styles.main}> 
+      <SafeAreaView style={styles.main}>
         <View style={styles.searchBox}>
           <Text>Search</Text>
         </View>
