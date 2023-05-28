@@ -20,6 +20,7 @@ export default function App() {
 const styles = StyleSheet.create({
   main: {
     flex: 1,
+    marginTop: StatusBar.currentHeight
   },
   searchBox: {
     backgroundColor: 'green',
