@@ -18,18 +18,18 @@ export default function App() {
 }
 
 const styles = StyleSheet.create({
-  main:{
-    flex:1
+  main: {
+    flex: 1,
   },
   searchBox: {
     backgroundColor: 'green',
     padding: 25,
-    flex:0
+    flex: 0
   },
   listBox: {
     backgroundColor: 'blue',
     padding: 25,
-    flex:1
+    flex: 1
 
   },
 });
